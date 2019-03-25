@@ -17,15 +17,11 @@ public class Printer {
         return this.toner;
     }
 
-    public boolean printingRequest(int numberOfPages, int numberOfCopies) {
-        int totalPages = numberOfPages * numberOfCopies;
-        return (totalPages < this.paper);
-    }
-
     public int print(int numberOfPages, int numberOfCopies) {
-       if (this.printingRequest(numberOfPages, numberOfCopies)) {
-           this.toner -= (numberOfPages * numberOfCopies);
-           return this.paper -= (numberOfPages * numberOfCopies);
+        int totalPages = numberOfPages * numberOfCopies;
+       if (totalPages < this.paper) {
+           this.toner -= totalPages;
+           return this.paper -= totalPages;
        } else {
            return this.paper;
        }

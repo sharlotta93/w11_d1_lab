@@ -18,11 +18,6 @@ public class PrinterTest {
     }
 
     @Test
-    public void hasPrintingRequest() {
-        assertEquals(true, printer.printingRequest(2, 3));
-    }
-
-    @Test
     public void canPrintingTrue() {
         printer.print(2, 3);
         assertEquals(4, printer.checkPaper());
