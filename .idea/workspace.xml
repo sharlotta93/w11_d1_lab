@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="efd5bdd3-af54-4046-84a8-3764b0d1e76f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Printer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/PrinterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/PrinterTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -57,8 +56,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+            <state relative-caret-position="333">
+              <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
               <folding>
                 <element signature="e#135#136#0" expanded="true" />
                 <element signature="e#169#170#0" expanded="true" />
@@ -74,8 +73,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#190#191#0" expanded="true" />
@@ -398,16 +397,15 @@
         <option value="$PROJECT_DIR$/src/main/java/Calculator.java" />
         <option value="$PROJECT_DIR$/src/main/java/WaterBottle.java" />
         <option value="$PROJECT_DIR$/src/test/java/WaterBottleTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/PrinterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Printer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/PrinterTest.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="20" />
-    <option name="y" value="43" />
-    <option name="width" value="1400" />
-    <option name="height" value="761" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1436" />
+    <option name="height" value="795" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -455,7 +453,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553532610445" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553593079354" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -498,12 +496,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_com_codeclan_homework_homework_test - 2019.03.25 at 15h 31m 36s.xml">
-      <configuration name="All in com.codeclan.homework.homework.test" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_com_codeclan_homework_homework_test - 2019.03.25 at 15h 37m 37s.xml">
-      <configuration name="All in com.codeclan.homework.homework.test" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_com_codeclan_homework_homework_test - 2019.03.25 at 15h 38m 13s.xml">
       <configuration name="All in com.codeclan.homework.homework.test" configurationId="JUnit" />
     </history-entry>
@@ -528,9 +520,15 @@
     <history-entry file="All_in_com_codeclan_homework_homework_test - 2019.03.25 at 16h 46m 30s.xml">
       <configuration name="All in com.codeclan.homework.homework.test" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_com_codeclan_homework_homework_test - 2019.03.25 at 16h 47m 55s.xml">
+      <configuration name="All in com.codeclan.homework.homework.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_com_codeclan_homework_homework_test - 2019.03.25 at 16h 50m 12s.xml">
+      <configuration name="All in com.codeclan.homework.homework.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1436" height="795" extended-state="6" />
+    <frame x="0" y="23" width="1436" height="795" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -538,7 +536,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" sideWeight="0.50211865" side_tool="true" weight="0.24246772" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49788135" visible="true" weight="0.15710187" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49788135" visible="true" weight="0.15710187" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
@@ -547,7 +545,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32859176" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27169275" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27169275" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -669,8 +667,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/PrinterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#190#191#0" expanded="true" />
@@ -683,8 +681,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Printer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        <state relative-caret-position="333">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
           <folding>
             <element signature="e#135#136#0" expanded="true" />
             <element signature="e#169#170#0" expanded="true" />

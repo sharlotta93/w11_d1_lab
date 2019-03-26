@@ -42,6 +42,3 @@ public class PrinterTest {
     }
 }
 
-
-
-//    Modify the printer so that it reduces the toner by 1 for each page printed.
